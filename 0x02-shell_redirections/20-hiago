@@ -1,2 +1,2 @@
 #!/bin/bash
-sed s/c//gi
+tr -d [Cc]
